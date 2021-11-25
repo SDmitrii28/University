@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Dmitry\Desktop\4 семестр\Бинарное дерево\Бинарное дерево\Source.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Бинарное дерево.vcxproj -> C:\Users\Dmitry\Desktop\4 семестр\Бинарное дерево\Debug\Бинарное дерево.exe
